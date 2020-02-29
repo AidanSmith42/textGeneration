@@ -11,4 +11,4 @@ textGeneration.py is fun for actually training and generating off of fed in text
 
 gpt2.py works best for simple q/a type responses.
 
-textGen.py doesnt use GPT2 and just a simple neural net.  It's not good text generation, but funny to see the model try.
+textGen.py doesnt use GPT2 and is just a simple neural net.  It's not good text generation, but funny to see the model try.
